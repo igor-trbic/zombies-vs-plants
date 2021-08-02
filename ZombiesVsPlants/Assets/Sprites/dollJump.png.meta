@@ -1,0 +1,1356 @@
+fileFormatVersion: 2
+guid: 612f6a8cbcedf8346b0d6bf5b652eb11
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5454870005923015796
+    second: dollJump_0
+  - first:
+      213: 9175515247585451905
+    second: dollJump_1
+  - first:
+      213: 3907798084178516661
+    second: dollJump_2
+  - first:
+      213: 304896022695506825
+    second: dollJump_3
+  - first:
+      213: 7848656376955668726
+    second: dollJump_4
+  - first:
+      213: 6227964934345381237
+    second: dollJump_5
+  - first:
+      213: 1425231950696261072
+    second: dollJump_6
+  - first:
+      213: 7227390305240433398
+    second: dollJump_7
+  - first:
+      213: -1407832198567772372
+    second: dollJump_8
+  - first:
+      213: -4910745758470357653
+    second: dollJump_9
+  - first:
+      213: -7110217901293117389
+    second: dollJump_10
+  - first:
+      213: 648268915322986950
+    second: dollJump_11
+  - first:
+      213: 7873666445409574501
+    second: dollJump_12
+  - first:
+      213: 8876757241008879226
+    second: dollJump_13
+  - first:
+      213: -4099096901900082491
+    second: dollJump_14
+  - first:
+      213: 16777946908954480
+    second: dollJump_15
+  - first:
+      213: 7764132224391821093
+    second: dollJump_16
+  - first:
+      213: 5852533235770137152
+    second: dollJump_17
+  - first:
+      213: -3747751059109466337
+    second: dollJump_18
+  - first:
+      213: 9208029847471943875
+    second: dollJump_19
+  - first:
+      213: -1047723187963714468
+    second: dollJump_20
+  - first:
+      213: -2711095191686741874
+    second: dollJump_21
+  - first:
+      213: -7356382641004241240
+    second: dollJump_22
+  - first:
+      213: 6719237426697796074
+    second: dollJump_23
+  - first:
+      213: 8483486852282032166
+    second: dollJump_24
+  - first:
+      213: -6306452560364396772
+    second: dollJump_25
+  - first:
+      213: -1870187981314222611
+    second: dollJump_26
+  - first:
+      213: -8155627868989128490
+    second: dollJump_27
+  - first:
+      213: 2652612396447386654
+    second: dollJump_28
+  - first:
+      213: 377792792842845038
+    second: dollJump_29
+  - first:
+      213: -3919393256785584872
+    second: dollJump_30
+  - first:
+      213: -4758273603477454371
+    second: dollJump_31
+  - first:
+      213: -4925133538225704836
+    second: dollJump_32
+  - first:
+      213: 1732074012985115339
+    second: dollJump_33
+  - first:
+      213: 4272871975211949054
+    second: dollJump_34
+  - first:
+      213: -8410143637131755365
+    second: dollJump_35
+  - first:
+      213: 6383731221930665065
+    second: dollJump_36
+  - first:
+      213: 9198956795423092497
+    second: dollJump_37
+  - first:
+      213: 7576251769585672600
+    second: dollJump_38
+  - first:
+      213: 2114573580688258180
+    second: dollJump_39
+  - first:
+      213: -1030776545123344289
+    second: dollJump_40
+  - first:
+      213: 6804733568926475306
+    second: dollJump_41
+  - first:
+      213: 2110325895425748987
+    second: dollJump_42
+  - first:
+      213: 4450607547895668513
+    second: dollJump_43
+  - first:
+      213: 5998866621932434193
+    second: dollJump_44
+  - first:
+      213: 6133800653063716250
+    second: dollJump_45
+  - first:
+      213: -8744980309709805363
+    second: dollJump_46
+  - first:
+      213: 7277632425400618197
+    second: dollJump_47
+  - first:
+      213: -4366538470492629193
+    second: dollJump_48
+  - first:
+      213: -8596050107189259628
+    second: dollJump_49
+  - first:
+      213: 6730514329269381530
+    second: dollJump_50
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dollJump_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 846
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c69f68e5793bb40800000000000000
+      internalID: 5454870005923015796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dollJump_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 846
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18fd283f08af55f70800000000000000
+      internalID: 9175515247585451905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dollJump_2
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 846
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba996537a94b3630800000000000000
+      internalID: 3907798084178516661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dollJump_3
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 846
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983f13631553b3400800000000000000
+      internalID: 304896022695506825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dollJump_4
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 846
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f80c8014670cec60800000000000000
+      internalID: 7848656376955668726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dollJump_5
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 846
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575de315c1d2e6650800000000000000
+      internalID: 6227964934345381237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dollJump_6
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 846
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5a9cf68e077c310800000000000000
+      internalID: 1425231950696261072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dollJump_7
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 846
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f245f4b039dc4460800000000000000
+      internalID: 7227390305240433398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dollJump_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 705
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fb20d0310667ce0800000000000000
+      internalID: -1407832198567772372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dollJump_9
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 705
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d3e1c30c689dbb0800000000000000
+      internalID: -4910745758470357653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dollJump_10
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 705
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330ecc58d7e635d90800000000000000
+      internalID: -7110217901293117389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dollJump_11
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 705
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c121c0d42d1ff800800000000000000
+      internalID: 648268915322986950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dollJump_12
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 705
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56edc866ae1e44d60800000000000000
+      internalID: 7873666445409574501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dollJump_13
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 705
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76f5bbfda3903b70800000000000000
+      internalID: 8876757241008879226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dollJump_14
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 705
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2675ee5151d17c0800000000000000
+      internalID: -4099096901900082491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dollJump_15
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 705
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f819d247b9b3000800000000000000
+      internalID: 16777946908954480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dollJump_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 564
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527b9083f1dbfbb60800000000000000
+      internalID: 7764132224391821093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dollJump_17
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 564
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a1f3a48ff583150800000000000000
+      internalID: 5852533235770137152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dollJump_18
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 564
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1faf27a4405dfbc0800000000000000
+      internalID: -3747751059109466337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dollJump_19
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 564
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c072cb2c5e79cf70800000000000000
+      internalID: 9208029847471943875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dollJump_20
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 564
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54ab76cf4db571f0800000000000000
+      internalID: -1047723187963714468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dollJump_21
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 564
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e800e338941406ad0800000000000000
+      internalID: -2711095191686741874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dollJump_22
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 564
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae971bb6f0e8e990800000000000000
+      internalID: -7356382641004241240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dollJump_23
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 564
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9f4dbe6d68f3d50800000000000000
+      internalID: 6719237426697796074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dollJump_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 423
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620a7fe38566bb570800000000000000
+      internalID: 8483486852282032166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dollJump_25
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 423
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f90a23fcafa78a0800000000000000
+      internalID: -6306452560364396772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dollJump_26
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 423
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de59f8e80f1cb06e0800000000000000
+      internalID: -1870187981314222611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dollJump_27
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 423
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d080acd9a361de80800000000000000
+      internalID: -8155627868989128490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dollJump_28
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 423
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c4b01abe8ffc420800000000000000
+      internalID: 2652612396447386654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dollJump_29
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 423
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bb9102b803e3500800000000000000
+      internalID: 377792792842845038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dollJump_30
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 423
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ddb3a49948b99c0800000000000000
+      internalID: -3919393256785584872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dollJump_31
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 423
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1cb983e5737fdb0800000000000000
+      internalID: -4758273603477454371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dollJump_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 282
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70b1b6342966abb0800000000000000
+      internalID: -4925133538225704836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dollJump_33
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 282
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2c9ac4320990810800000000000000
+      internalID: 1732074012985115339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dollJump_34
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 282
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbda3d3c6a4c4b30800000000000000
+      internalID: 4272871975211949054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dollJump_35
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 282
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9000cebbea294b80800000000000000
+      internalID: -8410143637131755365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dollJump_36
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 282
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9646fb059b1979850800000000000000
+      internalID: 6383731221930665065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dollJump_37
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 282
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11feb5f977249af70800000000000000
+      internalID: 9198956795423092497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dollJump_38
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 282
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891241ff7d0442960800000000000000
+      internalID: 7576251769585672600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dollJump_39
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 282
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4847958d779785d10800000000000000
+      internalID: 2114573580688258180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dollJump_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 141
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f506e198132f1b1f0800000000000000
+      internalID: -1030776545123344289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dollJump_41
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 141
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24e90fb0254f6e50800000000000000
+      internalID: 6804733568926475306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dollJump_42
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 141
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bffe82d8832694d10800000000000000
+      internalID: 2110325895425748987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dollJump_43
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 141
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f5ef60cfbb3cd30800000000000000
+      internalID: 4450607547895668513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dollJump_44
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 141
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113fa37c861404350800000000000000
+      internalID: 5998866621932434193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dollJump_45
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 141
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9dfbe81233af1550800000000000000
+      internalID: 6133800653063716250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dollJump_46
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 141
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc826ffbdb693a680800000000000000
+      internalID: -8744980309709805363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dollJump_47
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 141
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc4ed1e1285ff460800000000000000
+      internalID: 7277632425400618197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dollJump_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73795306560f663c0800000000000000
+      internalID: -4366538470492629193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dollJump_49
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 0
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4929689a8f1b4b880800000000000000
+      internalID: -8596050107189259628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dollJump_50
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 0
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9927c76f17976d50800000000000000
+      internalID: 6730514329269381530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
