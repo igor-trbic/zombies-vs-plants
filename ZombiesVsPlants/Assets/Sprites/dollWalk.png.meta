@@ -125,6 +125,129 @@ TextureImporter:
   - first:
       213: -3034249215122143717
     second: enemyWalk_40
+  - first:
+      213: -550648183823278265
+    second: dollWalk_0
+  - first:
+      213: 7235402371159034533
+    second: dollWalk_1
+  - first:
+      213: -19364175805214534
+    second: dollWalk_2
+  - first:
+      213: 8318443963079957049
+    second: dollWalk_3
+  - first:
+      213: -2862954689663889185
+    second: dollWalk_4
+  - first:
+      213: 1964588703656003716
+    second: dollWalk_5
+  - first:
+      213: 5859174592203753735
+    second: dollWalk_6
+  - first:
+      213: -2956672895309640535
+    second: dollWalk_7
+  - first:
+      213: 8218983050443893875
+    second: dollWalk_8
+  - first:
+      213: -2806539568022536383
+    second: dollWalk_9
+  - first:
+      213: 4293083184662347100
+    second: dollWalk_10
+  - first:
+      213: -3313793091089455231
+    second: dollWalk_11
+  - first:
+      213: -6014740748802648545
+    second: dollWalk_12
+  - first:
+      213: -3006802697287297292
+    second: dollWalk_13
+  - first:
+      213: -6999983915810762700
+    second: dollWalk_14
+  - first:
+      213: -6007049083911129180
+    second: dollWalk_15
+  - first:
+      213: 7616956135950095590
+    second: dollWalk_16
+  - first:
+      213: -8308351689368409901
+    second: dollWalk_17
+  - first:
+      213: 1469868527652756719
+    second: dollWalk_18
+  - first:
+      213: 3845060999925866838
+    second: dollWalk_19
+  - first:
+      213: 43456399014060906
+    second: dollWalk_20
+  - first:
+      213: 6761035853014207941
+    second: dollWalk_21
+  - first:
+      213: -2378214905035988535
+    second: dollWalk_22
+  - first:
+      213: 5558583157387931634
+    second: dollWalk_23
+  - first:
+      213: 7316723821403847237
+    second: dollWalk_24
+  - first:
+      213: 2386801889981483144
+    second: dollWalk_25
+  - first:
+      213: 6832170059591763119
+    second: dollWalk_26
+  - first:
+      213: 9055835371723232869
+    second: dollWalk_27
+  - first:
+      213: 4261330461401445005
+    second: dollWalk_28
+  - first:
+      213: 2969364059632651751
+    second: dollWalk_29
+  - first:
+      213: -8306687503971944645
+    second: dollWalk_30
+  - first:
+      213: 3968817202243040277
+    second: dollWalk_31
+  - first:
+      213: 1027121880654445119
+    second: dollWalk_32
+  - first:
+      213: -6641508163876845495
+    second: dollWalk_33
+  - first:
+      213: -4450763419467919133
+    second: dollWalk_34
+  - first:
+      213: -7433327279299205856
+    second: dollWalk_35
+  - first:
+      213: -2623418035465704506
+    second: dollWalk_36
+  - first:
+      213: -2950511003907691408
+    second: dollWalk_37
+  - first:
+      213: -2730039688829754336
+    second: dollWalk_38
+  - first:
+      213: 2374612885840481366
+    second: dollWalk_39
+  - first:
+      213: 167925100301210872
+    second: dollWalk_40
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -238,13 +361,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: enemyWalk_0
+      name: dollWalk_0
       rect:
         serializedVersion: 2
-        x: 6
-        y: 724
-        width: 77
-        height: 80
+        x: 0
+        y: 705
+        width: 124
+        height: 141
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -252,20 +375,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 07af7f6734779d220800000000000000
-      internalID: 2511169398878239344
+      spriteID: 74fdffee464bb58f0800000000000000
+      internalID: -550648183823278265
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemyWalk_1
+      name: dollWalk_1
       rect:
         serializedVersion: 2
-        x: 130
-        y: 724
-        width: 77
-        height: 80
+        x: 124
+        y: 705
+        width: 124
+        height: 141
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -273,20 +396,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 343ef978b5fdc7d90800000000000000
-      internalID: -7098553328432323773
+      spriteID: 5aa04fb2f10596460800000000000000
+      internalID: 7235402371159034533
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemyWalk_2
+      name: dollWalk_2
       rect:
         serializedVersion: 2
-        x: 254
-        y: 725
-        width: 77
-        height: 79
+        x: 248
+        y: 705
+        width: 124
+        height: 141
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -294,20 +417,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 787d3656769b26480800000000000000
-      internalID: -8907353259251607673
+      spriteID: ab013cb72643bbff0800000000000000
+      internalID: -19364175805214534
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemyWalk_3
+      name: dollWalk_3
       rect:
         serializedVersion: 2
-        x: 379
-        y: 725
-        width: 75
-        height: 80
+        x: 372
+        y: 705
+        width: 124
+        height: 141
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -315,20 +438,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fe74f3f6ebbbb80f0800000000000000
-      internalID: -1113590056259467281
+      spriteID: 93a9f5f16bc017370800000000000000
+      internalID: 8318443963079957049
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemyWalk_4
+      name: dollWalk_4
       rect:
         serializedVersion: 2
-        x: 504
-        y: 726
-        width: 74
-        height: 80
+        x: 496
+        y: 705
+        width: 124
+        height: 141
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -336,20 +459,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 17047ffaeb14922f0800000000000000
-      internalID: -997193555234045839
+      spriteID: fd09b8ad0edb448d0800000000000000
+      internalID: -2862954689663889185
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemyWalk_5
+      name: dollWalk_5
       rect:
         serializedVersion: 2
-        x: 629
-        y: 726
-        width: 73
-        height: 81
+        x: 620
+        y: 705
+        width: 124
+        height: 141
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -357,20 +480,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: de72c99e3ae8ed890800000000000000
-      internalID: -7431345500464601107
+      spriteID: 4884923640f934b10800000000000000
+      internalID: 1964588703656003716
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemyWalk_6
+      name: dollWalk_6
       rect:
         serializedVersion: 2
-        x: 754
-        y: 726
-        width: 71
-        height: 81
+        x: 744
+        y: 705
+        width: 124
+        height: 141
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -378,20 +501,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f0d5771275cbf0f80800000000000000
-      internalID: -8138078919225549553
+      spriteID: 7098c459f38ff4150800000000000000
+      internalID: 5859174592203753735
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemyWalk_7
+      name: dollWalk_7
       rect:
         serializedVersion: 2
-        x: 11
-        y: 585
-        width: 69
-        height: 81
+        x: 0
+        y: 564
+        width: 124
+        height: 141
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -399,20 +522,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 48b6c333c607a4280800000000000000
-      internalID: -9058304090483954812
+      spriteID: 9ac0b06baa9c7f6d0800000000000000
+      internalID: -2956672895309640535
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemyWalk_8
+      name: dollWalk_8
       rect:
         serializedVersion: 2
-        x: 136
-        y: 585
-        width: 67
-        height: 81
+        x: 124
+        y: 564
+        width: 124
+        height: 141
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -420,20 +543,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5eee30ad836bce8d0800000000000000
-      internalID: -2815675311721287963
+      spriteID: 37c2aa0d981bf0270800000000000000
+      internalID: 8218983050443893875
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemyWalk_9
+      name: dollWalk_9
       rect:
         serializedVersion: 2
-        x: 262
-        y: 584
-        width: 64
-        height: 82
+        x: 248
+        y: 564
+        width: 124
+        height: 141
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -441,20 +564,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4e1259e5d6756c540800000000000000
-      internalID: 5027802161255621092
+      spriteID: 14f30ffe12b2d09d0800000000000000
+      internalID: -2806539568022536383
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemyWalk_10
+      name: dollWalk_10
       rect:
         serializedVersion: 2
-        x: 386
-        y: 584
-        width: 63
-        height: 82
+        x: 372
+        y: 564
+        width: 124
+        height: 141
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -462,20 +585,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0cc3aba29b8701880800000000000000
-      internalID: -8642274948242850624
+      spriteID: c5d70052968149b30800000000000000
+      internalID: 4293083184662347100
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemyWalk_11
+      name: dollWalk_11
       rect:
         serializedVersion: 2
-        x: 509
-        y: 584
-        width: 61
-        height: 83
+        x: 496
+        y: 564
+        width: 124
+        height: 141
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -483,20 +606,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d4326d0056c32d3b0800000000000000
-      internalID: -5489258591307816115
+      spriteID: 187287aadba0302d0800000000000000
+      internalID: -3313793091089455231
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemyWalk_12
+      name: dollWalk_12
       rect:
         serializedVersion: 2
-        x: 632
-        y: 584
-        width: 64
-        height: 83
+        x: 620
+        y: 564
+        width: 124
+        height: 141
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -504,20 +627,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 835f3d24ebb54ebf0800000000000000
-      internalID: -296010802776509128
+      spriteID: f161d8b0829578ca0800000000000000
+      internalID: -6014740748802648545
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemyWalk_13
+      name: dollWalk_13
       rect:
         serializedVersion: 2
-        x: 755
-        y: 584
-        width: 68
-        height: 83
+        x: 744
+        y: 564
+        width: 124
+        height: 141
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -525,20 +648,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8f21bf969d659f0b0800000000000000
-      internalID: -5694424762047327496
+      spriteID: 4f61186a0e0b546d0800000000000000
+      internalID: -3006802697287297292
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemyWalk_14
+      name: dollWalk_14
       rect:
         serializedVersion: 2
-        x: 11
-        y: 443
-        width: 71
-        height: 83
+        x: 0
+        y: 423
+        width: 124
+        height: 141
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -546,20 +669,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dfd890fccd8366800800000000000000
-      internalID: 605233720945380861
+      spriteID: 430d6a057bf0bde90800000000000000
+      internalID: -6999983915810762700
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemyWalk_15
+      name: dollWalk_15
       rect:
         serializedVersion: 2
-        x: 135
-        y: 442
-        width: 74
-        height: 84
+        x: 124
+        y: 423
+        width: 124
+        height: 141
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -567,20 +690,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c9816ac280f054ea0800000000000000
-      internalID: -5889284409933817700
+      spriteID: 4a734255faca2aca0800000000000000
+      internalID: -6007049083911129180
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemyWalk_16
+      name: dollWalk_16
       rect:
         serializedVersion: 2
-        x: 261
-        y: 442
-        width: 73
-        height: 82
+        x: 248
+        y: 423
+        width: 124
+        height: 141
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -588,20 +711,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4d9dba8073148bd10800000000000000
-      internalID: 2141533327439157716
+      spriteID: 6e49901df3dd4b960800000000000000
+      internalID: 7616956135950095590
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemyWalk_17
+      name: dollWalk_17
       rect:
         serializedVersion: 2
-        x: 387
-        y: 442
-        width: 73
-        height: 81
+        x: 372
+        y: 423
+        width: 124
+        height: 141
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -609,20 +732,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d4fcaa8bd107e60f0800000000000000
-      internalID: -1121835984214110387
+      spriteID: 3d8ed26782ec2bc80800000000000000
+      internalID: -8308351689368409901
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemyWalk_18
+      name: dollWalk_18
       rect:
         serializedVersion: 2
-        x: 512
-        y: 442
-        width: 72
-        height: 79
+        x: 496
+        y: 423
+        width: 124
+        height: 141
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -630,20 +753,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2e4205b3ecbb39a80800000000000000
-      internalID: -8461212780466264862
+      spriteID: fecd44163a5066410800000000000000
+      internalID: 1469868527652756719
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemyWalk_19
+      name: dollWalk_19
       rect:
         serializedVersion: 2
-        x: 637
-        y: 442
-        width: 72
-        height: 79
+        x: 620
+        y: 423
+        width: 124
+        height: 141
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -651,20 +774,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f6b8c1f3abb1282b0800000000000000
-      internalID: -5583870101249291409
+      spriteID: 6512a408b966c5530800000000000000
+      internalID: 3845060999925866838
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemyWalk_20
+      name: dollWalk_20
       rect:
         serializedVersion: 2
-        x: 761
-        y: 442
-        width: 72
-        height: 79
+        x: 744
+        y: 423
+        width: 124
+        height: 141
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -672,20 +795,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fd17c39c1e08de5e0800000000000000
-      internalID: -1878703762311450145
+      spriteID: a63637a5d536a9000800000000000000
+      internalID: 43456399014060906
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemyWalk_21
+      name: dollWalk_21
       rect:
         serializedVersion: 2
-        x: 17
-        y: 301
-        width: 72
-        height: 79
+        x: 0
+        y: 282
+        width: 124
+        height: 141
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -693,20 +816,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 78900bfe25788e9f0800000000000000
-      internalID: -438952173390263929
+      spriteID: 5cd879c694604dd50800000000000000
+      internalID: 6761035853014207941
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemyWalk_22
+      name: dollWalk_22
       rect:
         serializedVersion: 2
-        x: 140
-        y: 302
-        width: 73
-        height: 78
+        x: 124
+        y: 282
+        width: 124
+        height: 141
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -714,20 +837,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d807cc4e8d3d4cf70800000000000000
-      internalID: 9206716466757136525
+      spriteID: 9c16ac9e422eefed0800000000000000
+      internalID: -2378214905035988535
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemyWalk_23
+      name: dollWalk_23
       rect:
         serializedVersion: 2
-        x: 263
-        y: 302
-        width: 73
-        height: 79
+        x: 248
+        y: 282
+        width: 124
+        height: 141
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -735,20 +858,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3ea4f63c6996dc950800000000000000
-      internalID: 6470944335846132451
+      spriteID: 2ffa3965eed042d40800000000000000
+      internalID: 5558583157387931634
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemyWalk_24
+      name: dollWalk_24
       rect:
         serializedVersion: 2
-        x: 386
-        y: 303
-        width: 74
-        height: 78
+        x: 372
+        y: 282
+        width: 124
+        height: 141
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -756,20 +879,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0e9cfd29a648a46e0800000000000000
-      internalID: -1852522703443998240
+      spriteID: 54a3a66cc893a8560800000000000000
+      internalID: 7316723821403847237
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemyWalk_25
+      name: dollWalk_25
       rect:
         serializedVersion: 2
-        x: 509
-        y: 303
-        width: 75
-        height: 80
+        x: 496
+        y: 282
+        width: 124
+        height: 141
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -777,20 +900,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d7dca6499669a04e0800000000000000
-      internalID: -2014632503089115779
+      spriteID: 888c3915caf9f1120800000000000000
+      internalID: 2386801889981483144
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemyWalk_26
+      name: dollWalk_26
       rect:
         serializedVersion: 2
-        x: 632
-        y: 303
-        width: 75
-        height: 79
+        x: 620
+        y: 282
+        width: 124
+        height: 141
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -798,20 +921,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 16db00bf089e3e1b0800000000000000
-      internalID: -5628398369106772639
+      spriteID: fa4c607887eb0de50800000000000000
+      internalID: 6832170059591763119
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemyWalk_27
+      name: dollWalk_27
       rect:
         serializedVersion: 2
-        x: 755
-        y: 303
-        width: 75
-        height: 79
+        x: 744
+        y: 282
+        width: 124
+        height: 141
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -819,20 +942,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ecd9ca13f2595de10800000000000000
-      internalID: 2221846021106605518
+      spriteID: 5661bfb6a4accad70800000000000000
+      internalID: 9055835371723232869
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemyWalk_28
+      name: dollWalk_28
       rect:
         serializedVersion: 2
-        x: 10
-        y: 162
-        width: 75
-        height: 79
+        x: 0
+        y: 141
+        width: 124
+        height: 141
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -840,20 +963,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3be39a580dc93a390800000000000000
-      internalID: -7808224909520716109
+      spriteID: d8272662a79432b30800000000000000
+      internalID: 4261330461401445005
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemyWalk_29
+      name: dollWalk_29
       rect:
         serializedVersion: 2
-        x: 133
-        y: 161
-        width: 76
-        height: 80
+        x: 124
+        y: 141
+        width: 124
+        height: 141
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -861,20 +984,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 46c3dc7d05d9f6420800000000000000
-      internalID: 2625490078323784804
+      spriteID: 7ed473f31ec453920800000000000000
+      internalID: 2969364059632651751
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemyWalk_30
+      name: dollWalk_30
       rect:
         serializedVersion: 2
-        x: 256
-        y: 161
-        width: 76
-        height: 80
+        x: 248
+        y: 141
+        width: 124
+        height: 141
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -882,20 +1005,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 011e77f1b4e7a3880800000000000000
-      internalID: -8630446874786537200
+      spriteID: b377391d9b7b8bc80800000000000000
+      internalID: -8306687503971944645
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemyWalk_31
+      name: dollWalk_31
       rect:
         serializedVersion: 2
-        x: 381
-        y: 161
-        width: 73
-        height: 81
+        x: 372
+        y: 141
+        width: 124
+        height: 141
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -903,20 +1026,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e27edbd2e39231880800000000000000
-      internalID: -8641517912961718482
+      spriteID: 514f72eb732141730800000000000000
+      internalID: 3968817202243040277
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemyWalk_32
+      name: dollWalk_32
       rect:
         serializedVersion: 2
-        x: 505
-        y: 161
-        width: 70
-        height: 83
+        x: 496
+        y: 141
+        width: 124
+        height: 141
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -924,20 +1047,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fd2c73ef4b5657f90800000000000000
-      internalID: -6956542221370277153
+      spriteID: f3a707598e1114e00800000000000000
+      internalID: 1027121880654445119
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemyWalk_33
+      name: dollWalk_33
       rect:
         serializedVersion: 2
-        x: 630
-        y: 161
-        width: 70
-        height: 83
+        x: 620
+        y: 141
+        width: 124
+        height: 141
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -945,20 +1068,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f3752368acb00c610800000000000000
-      internalID: 1639323228825605951
+      spriteID: 948834f538f94d3a0800000000000000
+      internalID: -6641508163876845495
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemyWalk_34
+      name: dollWalk_34
       rect:
         serializedVersion: 2
-        x: 755
-        y: 161
-        width: 70
-        height: 84
+        x: 744
+        y: 141
+        width: 124
+        height: 141
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -966,20 +1089,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bf5172da3151865a0800000000000000
-      internalID: -6527944485619952133
+      spriteID: 3e0df4b4046bb32c0800000000000000
+      internalID: -4450763419467919133
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemyWalk_35
+      name: dollWalk_35
       rect:
         serializedVersion: 2
-        x: 12
-        y: 19
-        width: 70
-        height: 85
+        x: 0
+        y: 0
+        width: 124
+        height: 141
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -987,20 +1110,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8591b6dca0b24c670800000000000000
-      internalID: 8558012517306800472
+      spriteID: 0256622193487d890800000000000000
+      internalID: -7433327279299205856
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemyWalk_36
+      name: dollWalk_36
       rect:
         serializedVersion: 2
-        x: 135
-        y: 19
-        width: 71
-        height: 84
+        x: 124
+        y: 0
+        width: 124
+        height: 141
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1008,20 +1131,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9fc879ce4cbaa6b20800000000000000
-      internalID: 3128501753433525497
+      spriteID: 6cba6ba323fb79bd0800000000000000
+      internalID: -2623418035465704506
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemyWalk_37
+      name: dollWalk_37
       rect:
         serializedVersion: 2
-        x: 256
-        y: 19
-        width: 75
-        height: 82
+        x: 248
+        y: 0
+        width: 124
+        height: 141
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1029,20 +1152,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7629647bcd67de460800000000000000
-      internalID: 7272599663612957287
+      spriteID: 07c633adfddad07d0800000000000000
+      internalID: -2950511003907691408
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemyWalk_38
+      name: dollWalk_38
       rect:
         serializedVersion: 2
-        x: 379
-        y: 19
-        width: 76
-        height: 81
+        x: 372
+        y: 0
+        width: 124
+        height: 141
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1050,20 +1173,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fec55ef383154dda0800000000000000
-      internalID: -5921018308053345041
+      spriteID: 024a59c0e53fc1ad0800000000000000
+      internalID: -2730039688829754336
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemyWalk_39
+      name: dollWalk_39
       rect:
         serializedVersion: 2
-        x: 502
-        y: 19
-        width: 77
-        height: 80
+        x: 496
+        y: 0
+        width: 124
+        height: 141
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1071,20 +1194,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 63f7ad5bea587ff00800000000000000
-      internalID: 1150535215238250294
+      spriteID: 65c4693a6d154f020800000000000000
+      internalID: 2374612885840481366
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemyWalk_40
+      name: dollWalk_40
       rect:
         serializedVersion: 2
-        x: 626
-        y: 19
-        width: 77
-        height: 80
+        x: 620
+        y: 0
+        width: 124
+        height: 141
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1092,8 +1215,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b1603ac3a6e24e5d0800000000000000
-      internalID: -3034249215122143717
+      spriteID: 8f453503df6945200800000000000000
+      internalID: 167925100301210872
       vertices: []
       indices: 
       edges: []
