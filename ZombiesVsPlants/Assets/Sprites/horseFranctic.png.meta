@@ -1,0 +1,2364 @@
+fileFormatVersion: 2
+guid: 96620c6fac56bfd828b33053ece6be28
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1843219125877015991
+    second: horseFranctic_0
+  - first:
+      213: 172491374230089263
+    second: horseFranctic_1
+  - first:
+      213: 3753447655463658903
+    second: horseFranctic_2
+  - first:
+      213: -692923131388479615
+    second: horseFranctic_3
+  - first:
+      213: 1375237629215703452
+    second: horseFranctic_4
+  - first:
+      213: 6806644942676042013
+    second: horseFranctic_5
+  - first:
+      213: -184325665306808852
+    second: horseFranctic_6
+  - first:
+      213: 8762853686347082141
+    second: horseFranctic_7
+  - first:
+      213: -4600434152672201593
+    second: horseFranctic_8
+  - first:
+      213: -4148623767255641940
+    second: horseFranctic_9
+  - first:
+      213: -195454917370462678
+    second: horseFranctic_10
+  - first:
+      213: 4041733978672443138
+    second: horseFranctic_11
+  - first:
+      213: -7274725108870157461
+    second: horseFranctic_12
+  - first:
+      213: 2124895208982470017
+    second: horseFranctic_13
+  - first:
+      213: -1016155657421586493
+    second: horseFranctic_14
+  - first:
+      213: 8706611932159255623
+    second: horseFranctic_15
+  - first:
+      213: -6469517809039048839
+    second: horseFranctic_16
+  - first:
+      213: 794893934176059087
+    second: horseFranctic_17
+  - first:
+      213: -7222531852903619377
+    second: horseFranctic_18
+  - first:
+      213: 6915737434752222241
+    second: horseFranctic_19
+  - first:
+      213: 5560766601654926904
+    second: horseFranctic_20
+  - first:
+      213: 1661838907518695060
+    second: horseFranctic_21
+  - first:
+      213: 6624760493185252736
+    second: horseFranctic_22
+  - first:
+      213: -8003201922254626146
+    second: horseFranctic_23
+  - first:
+      213: -6165899858615257623
+    second: horseFranctic_24
+  - first:
+      213: -3803815231808694926
+    second: horseFranctic_25
+  - first:
+      213: 4818904271401546047
+    second: horseFranctic_26
+  - first:
+      213: 3044394584917812003
+    second: horseFranctic_27
+  - first:
+      213: 7956220184034916951
+    second: horseFranctic_28
+  - first:
+      213: -5361222246776276695
+    second: horseFranctic_29
+  - first:
+      213: 3568487138564240089
+    second: horseFranctic_30
+  - first:
+      213: -7716363563696038509
+    second: horseFranctic_31
+  - first:
+      213: 8670655251739647997
+    second: horseFranctic_32
+  - first:
+      213: -2659010470676359983
+    second: horseFranctic_33
+  - first:
+      213: 9107156134765827117
+    second: horseFranctic_34
+  - first:
+      213: -3271416586866852394
+    second: horseFranctic_35
+  - first:
+      213: 4766580866713756738
+    second: horseFranctic_36
+  - first:
+      213: -9126800439797439371
+    second: horseFranctic_37
+  - first:
+      213: -2496546316403195019
+    second: horseFranctic_38
+  - first:
+      213: 3040515359783939320
+    second: horseFranctic_39
+  - first:
+      213: 1308094957407987211
+    second: horseFranctic_40
+  - first:
+      213: 141239855955979501
+    second: horseFranctic_41
+  - first:
+      213: 7832205939108973278
+    second: horseFranctic_42
+  - first:
+      213: -4740361607279303561
+    second: horseFranctic_43
+  - first:
+      213: 2058738580880261468
+    second: horseFranctic_44
+  - first:
+      213: -1026556329769542880
+    second: horseFranctic_45
+  - first:
+      213: -2732417455173971773
+    second: horseFranctic_46
+  - first:
+      213: -7486009867384177959
+    second: horseFranctic_47
+  - first:
+      213: 3882942390957230017
+    second: horseFranctic_48
+  - first:
+      213: 2989670014913028189
+    second: horseFranctic_49
+  - first:
+      213: -8221124898072735948
+    second: horseFranctic_50
+  - first:
+      213: -7015259497660161784
+    second: horseFranctic_51
+  - first:
+      213: 253132964477498898
+    second: horseFranctic_52
+  - first:
+      213: 7413216297666407917
+    second: horseFranctic_53
+  - first:
+      213: -1070889540364289161
+    second: horseFranctic_54
+  - first:
+      213: -4112613898621521692
+    second: horseFranctic_55
+  - first:
+      213: 8920642168014323989
+    second: horseFranctic_56
+  - first:
+      213: 2695858376709083453
+    second: horseFranctic_57
+  - first:
+      213: 6555992974627212515
+    second: horseFranctic_58
+  - first:
+      213: -7719881206696217620
+    second: horseFranctic_59
+  - first:
+      213: -2490782447860861532
+    second: horseFranctic_60
+  - first:
+      213: 4714247407700279035
+    second: horseFranctic_61
+  - first:
+      213: -467076331279590849
+    second: horseFranctic_62
+  - first:
+      213: 790532641845848009
+    second: horseFranctic_63
+  - first:
+      213: 195865502602303941
+    second: horseFranctic_64
+  - first:
+      213: -6714628170668528155
+    second: horseFranctic_65
+  - first:
+      213: 2686691542218781751
+    second: horseFranctic_66
+  - first:
+      213: -716747728721522428
+    second: horseFranctic_67
+  - first:
+      213: -9223064097974363116
+    second: horseFranctic_68
+  - first:
+      213: 8465701869033577739
+    second: horseFranctic_69
+  - first:
+      213: -8748959048797400464
+    second: horseFranctic_70
+  - first:
+      213: 7894547809962903472
+    second: horseFranctic_71
+  - first:
+      213: 6338819166212110073
+    second: horseFranctic_72
+  - first:
+      213: 3971908841410850890
+    second: horseFranctic_73
+  - first:
+      213: 5030921111043210080
+    second: horseFranctic_74
+  - first:
+      213: 238235894950103859
+    second: horseFranctic_75
+  - first:
+      213: -9035282020364485066
+    second: horseFranctic_76
+  - first:
+      213: -6185683928447985596
+    second: horseFranctic_77
+  - first:
+      213: 1826790254919753559
+    second: horseFranctic_78
+  - first:
+      213: -6849412779811986018
+    second: horseFranctic_79
+  - first:
+      213: -4940578709062469407
+    second: horseFranctic_80
+  - first:
+      213: -3745677352950083851
+    second: horseFranctic_81
+  - first:
+      213: 97047359206866040
+    second: horseFranctic_82
+  - first:
+      213: -71190218729781715
+    second: horseFranctic_83
+  - first:
+      213: 4973572855528888249
+    second: horseFranctic_84
+  - first:
+      213: -8900338542289345281
+    second: horseFranctic_85
+  - first:
+      213: 6613854381059879750
+    second: horseFranctic_86
+  - first:
+      213: -4617469651574402016
+    second: horseFranctic_87
+  - first:
+      213: -8908204831562162440
+    second: horseFranctic_88
+  - first:
+      213: -5260792476705045139
+    second: horseFranctic_89
+  - first:
+      213: 5000262614870110042
+    second: horseFranctic_90
+  - first:
+      213: 3324434205027587999
+    second: horseFranctic_91
+  - first:
+      213: 9014006995683234528
+    second: horseFranctic_92
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: horseFranctic_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3636
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94af4e688f19b66e0800000000000000
+      internalID: -1843219125877015991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_1
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 3636
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2eadcfadffc46200800000000000000
+      internalID: 172491374230089263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_2
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 3636
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7952fea81cce61430800000000000000
+      internalID: 3753447655463658903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_3
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 3636
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18730f0551e3266f0800000000000000
+      internalID: -692923131388479615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_4
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 3636
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9107236653d51310800000000000000
+      internalID: 1375237629215703452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3434
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d112a60238f067e50800000000000000
+      internalID: 6806644942676042013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_6
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 3434
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced6664b8c4217df0800000000000000
+      internalID: -184325665306808852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_7
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 3434
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99a0790009eb9970800000000000000
+      internalID: 8762853686347082141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_8
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 3434
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784f5652389f720c0800000000000000
+      internalID: -4600434152672201593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_9
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 3434
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca01cfdf9a02d66c0800000000000000
+      internalID: -4148623767255641940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3232
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2eb788c9ca994df0800000000000000
+      internalID: -195454917370462678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_11
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 3232
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fa56bb3af171830800000000000000
+      internalID: 4041733978672443138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_12
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 3232
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6bed2f7e0cfa0b90800000000000000
+      internalID: -7274725108870157461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_13
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 3232
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d54543fe42d7d10800000000000000
+      internalID: 2124895208982470017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_14
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 3232
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cff1ea30d3e5e1f0800000000000000
+      internalID: -1016155657421586493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3030
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744a7853c6914d870800000000000000
+      internalID: 8706611932159255623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_16
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 3030
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ff92464d7a736a0800000000000000
+      internalID: -6469517809039048839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_17
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 3030
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce3da452d7080b00800000000000000
+      internalID: 794893934176059087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_18
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 3030
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc46cb0eb8964cb90800000000000000
+      internalID: -7222531852903619377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_19
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 3030
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12407464e82a9ff50800000000000000
+      internalID: 6915737434752222241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2828
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e7f7213cfcb2d40800000000000000
+      internalID: 5560766601654926904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_21
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 2828
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496339c7ea9001710800000000000000
+      internalID: 1661838907518695060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_22
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 2828
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d395ea190efeb50800000000000000
+      internalID: 6624760493185252736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_23
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 2828
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e922a46214aeee090800000000000000
+      internalID: -8003201922254626146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_24
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 2828
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e53b963fb25e6aa0800000000000000
+      internalID: -6165899858615257623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2626
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27592dc3332263bc0800000000000000
+      internalID: -3803815231808694926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_26
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 2626
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31708737ef20e240800000000000000
+      internalID: 4818904271401546047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_27
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 2626
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323262ebebcdf3a20800000000000000
+      internalID: 3044394584917812003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_28
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 2626
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ab1308a1c2a6e60800000000000000
+      internalID: 7956220184034916951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_29
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 2626
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9297af285cc1995b0800000000000000
+      internalID: -5361222246776276695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2424
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2fba75520d58130800000000000000
+      internalID: 3568487138564240089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_31
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 2424
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d512cc838f9e490800000000000000
+      internalID: -7716363563696038509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_32
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 2424
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff11d9230b545870800000000000000
+      internalID: 8670655251739647997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_33
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 2424
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d49a41a01c491bd0800000000000000
+      internalID: -2659010470676359983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_34
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 2424
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d249cb6b04e136e70800000000000000
+      internalID: 9107156134765827117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2222
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ddfa7b62f79992d0800000000000000
+      internalID: -3271416586866852394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_36
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 2222
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244a5a93b0c462240800000000000000
+      internalID: 4766580866713756738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_37
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 2222
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574aef91b57175180800000000000000
+      internalID: -9126800439797439371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_38
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 2222
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5734a7d3a5c7a5dd0800000000000000
+      internalID: -2496546316403195019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_39
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 2222
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc6a024c94123a20800000000000000
+      internalID: 3040515359783939320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2020
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0668c4ee69472210800000000000000
+      internalID: 1308094957407987211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_41
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 2020
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec226296e8c5f100800000000000000
+      internalID: 141239855955979501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_42
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 2020
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda8b480ec591bc60800000000000000
+      internalID: 7832205939108973278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_43
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 2020
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774a733db3ad63eb0800000000000000
+      internalID: -4740361607279303561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_44
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 2020
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5182c6e4db129c10800000000000000
+      internalID: 2058738580880261468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1818
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b582ef470f0c1f0800000000000000
+      internalID: -1026556329769542880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_46
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1818
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0574e2dc0841ad0800000000000000
+      internalID: -2732417455173971773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_47
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1818
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da3f7d20b95c1890800000000000000
+      internalID: -7486009867384177959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_48
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1818
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7cf48288bf2e530800000000000000
+      internalID: 3882942390957230017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_49
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1818
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d502782e9017d7920800000000000000
+      internalID: 2989670014913028189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1616
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f414c6672b8ed80800000000000000
+      internalID: -8221124898072735948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_51
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1616
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801e7c2c7aac4ae90800000000000000
+      internalID: -7015259497660161784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_52
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1616
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2167f9c071f438300800000000000000
+      internalID: 253132964477498898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_53
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1616
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedea8122f801e660800000000000000
+      internalID: 7413216297666407917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_54
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1616
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bb7e803af6321f0800000000000000
+      internalID: -1070889540364289161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1414
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e07452e27f0de6c0800000000000000
+      internalID: -4112613898621521692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_56
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1414
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5114dd8c9cc7ccb70800000000000000
+      internalID: 8920642168014323989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_57
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1414
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31918c09ec996520800000000000000
+      internalID: 2695858376709083453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_58
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1414
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec8c9210e09bfa50800000000000000
+      internalID: 6555992974627212515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_59
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1414
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce378a6b1f87dd490800000000000000
+      internalID: -7719881206696217620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1212
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5b9767f86fe6dd0800000000000000
+      internalID: -2490782447860861532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_61
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1212
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfef7474a0f5c6140800000000000000
+      internalID: 4714247407700279035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_62
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1212
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a56172d8c9489f0800000000000000
+      internalID: -467076331279590849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_63
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1212
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7a294df3988fa00800000000000000
+      internalID: 790532641845848009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_64
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1212
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c91d5a03aad7b200800000000000000
+      internalID: 195865502602303941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1010
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eda8702149d0d2a0800000000000000
+      internalID: -6714628170668528155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_66
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1010
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7343ff219bb094520800000000000000
+      internalID: 2686691542218781751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_67
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1010
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4015cfbfcb99d06f0800000000000000
+      internalID: -716747728721522428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_68
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1010
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c549b9118110080800000000000000
+      internalID: -9223064097974363116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_69
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1010
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d5b162ff63c7570800000000000000
+      internalID: 8465701869033577739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 808
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072ddfd5914759680800000000000000
+      internalID: -8748959048797400464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_71
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 808
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b74d23f7611f8d60800000000000000
+      internalID: 7894547809962903472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_72
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 808
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6b289727208f750800000000000000
+      internalID: 6338819166212110073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_73
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 808
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40f6841c0e0f1730800000000000000
+      internalID: 3971908841410850890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_74
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 808
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b7eb4781c61d540800000000000000
+      internalID: 5030921111043210080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 606
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b8f33c8426e4300800000000000000
+      internalID: 238235894950103859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_76
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 606
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e73ba9fda3c9280800000000000000
+      internalID: -9035282020364485066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_77
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 606
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448d3008d39082aa0800000000000000
+      internalID: -6185683928447985596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_78
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 606
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f13afde001a5910800000000000000
+      internalID: 1826790254919753559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_79
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 606
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e952943dd5ff1f0a0800000000000000
+      internalID: -6849412779811986018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 404
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8397527d98f6bb0800000000000000
+      internalID: -4940578709062469407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_81
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 404
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe4f2efa4ea40cc0800000000000000
+      internalID: -3745677352950083851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_82
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 404
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c3aeb1f08c85100800000000000000
+      internalID: 97047359206866040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_83
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 404
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26012d8fd4130ff0800000000000000
+      internalID: -71190218729781715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_84
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 404
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b71356392ea50540800000000000000
+      internalID: 4973572855528888249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 202
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff420267045ab7480800000000000000
+      internalID: -8900338542289345281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_86
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 202
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6433c33948129cb50800000000000000
+      internalID: 6613854381059879750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_87
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 202
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024d2c8f0d37befb0800000000000000
+      internalID: -4617469651574402016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_88
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 202
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe915447e2bf5480800000000000000
+      internalID: -8908204831562162440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_89
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 202
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65c2f48d19edf6b0800000000000000
+      internalID: -5260792476705045139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5faffe0b50846540800000000000000
+      internalID: 5000262614870110042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_91
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97d3ddbb43c22e20800000000000000
+      internalID: 3324434205027587999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseFranctic_92
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 0
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2d594ba9f281d70800000000000000
+      internalID: 9014006995683234528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
