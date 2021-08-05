@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class DefenderSpawner : MonoBehaviour
 {
-    [SerializeField] GameObject defender;
+    Defender defender;
 
     private void OnMouseDown() {
         SpawnDefender(GetSquareClicked());
@@ -26,10 +26,14 @@ public class DefenderSpawner : MonoBehaviour
     }
 
     private void SpawnDefender(Vector2 spawnPos) {
-        GameObject newDefender = Instantiate(
+        Defender newDefender = Instantiate(
             defender,
             spawnPos,
             Quaternion.identity
-        ) as GameObject;
+        ) as Defender;
+    }
+
+    public void SetSelectedDefender(Defender selectedDefender) {
+        defender = selectedDefender;
     }
 }

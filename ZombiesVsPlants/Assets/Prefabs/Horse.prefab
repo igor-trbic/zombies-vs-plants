@@ -42,6 +42,7 @@ GameObject:
   - component: {fileID: 637671370128904802}
   - component: {fileID: 637671370128904805}
   - component: {fileID: 1445627899}
+  - component: {fileID: 1563673528}
   m_Layer: 0
   m_Name: Horse
   m_TagString: Untagged
@@ -148,3 +149,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   projectile: {fileID: 6393620439936831891, guid: dc85c4e0fa78628059b60cf0bb146df9, type: 3}
   gun: {fileID: 200636084}
+--- !u!114 &1563673528
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 637671370128904804}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 043dac3b98627dca49e6f1a57afe3155, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  breadCost: 200
