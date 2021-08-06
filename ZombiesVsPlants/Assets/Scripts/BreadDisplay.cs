@@ -30,4 +30,8 @@ public class BreadDisplay : MonoBehaviour
             UpdateBread();
         }
     }
+
+    public bool HaveEnoughBread(int amount) {
+        return breads >= amount;
+    }
 }

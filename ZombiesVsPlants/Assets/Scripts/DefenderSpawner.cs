@@ -7,7 +7,7 @@ public class DefenderSpawner : MonoBehaviour
     Defender defender;
 
     private void OnMouseDown() {
-        SpawnDefender(GetSquareClicked());
+        AttemptToPlaceDefender(GetSquareClicked());
     }
 
     private Vector2 GetSquareClicked() {
@@ -31,6 +31,16 @@ public class DefenderSpawner : MonoBehaviour
             spawnPos,
             Quaternion.identity
         ) as Defender;
+    }
+
+    private void AttemptToPlaceDefender(Vector2 pos) {
+        var BreadDisplay = FindObjectOfType<BreadDisplay>();
+        int defenderCost = defender.GetBreadCost();
+
+        if (BreadDisplay.HaveEnoughBread(defenderCost)) {
+            SpawnDefender(pos);
+            BreadDisplay.SpendBread(defenderCost);
+        }
     }
 
     public void SetSelectedDefender(Defender selectedDefender) {

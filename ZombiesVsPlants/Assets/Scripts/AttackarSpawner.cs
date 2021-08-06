@@ -16,21 +16,17 @@ public class AttackarSpawner : MonoBehaviour
             var randomSec = Random.Range(minSpawnDelay, maxSpawnDelay);
             yield return new WaitForSeconds(randomSec);
             SpawnAttacker();
-            // yield return StartCoroutine(SpawnEnemies());
         } while (spawn);
     }
 
     private void SpawnAttacker() {
-        Instantiate(
+        Attacker attacker = Instantiate(
             attackerPrefab,
             transform.position,
             transform.rotation
-        );
-    }
-
-    private IEnumerator SpawnEnemies() {
-        var randomSec = Random.Range(minSpawnDelay, maxSpawnDelay);
-        yield return new WaitForSeconds(randomSec);
+        ) as Attacker;
+        // parent is this transform so it's placed as child
+        attacker.transform.parent = transform;
     }
 
     // Update is called once per frame
