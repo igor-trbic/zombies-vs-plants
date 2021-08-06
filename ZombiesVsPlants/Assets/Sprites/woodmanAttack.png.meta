@@ -1,0 +1,1812 @@
+fileFormatVersion: 2
+guid: e9978e64b4e47f4c7a8042e9cc072d1b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4887016818182400823
+    second: rubeAcc_0
+  - first:
+      213: 8115226391296355850
+    second: rubeAcc_1
+  - first:
+      213: -7370548482994385078
+    second: rubeAcc_2
+  - first:
+      213: 7861953673381904972
+    second: rubeAcc_3
+  - first:
+      213: 4867177510341837917
+    second: rubeAcc_4
+  - first:
+      213: 5372700863720495525
+    second: rubeAcc_5
+  - first:
+      213: -6589337208468010258
+    second: rubeAcc_6
+  - first:
+      213: -5882062552698076557
+    second: rubeAcc_7
+  - first:
+      213: -2785765589784597526
+    second: rubeAcc_8
+  - first:
+      213: 6609015583864545847
+    second: rubeAcc_9
+  - first:
+      213: -4486882416713014842
+    second: rubeAcc_10
+  - first:
+      213: -680053947861302992
+    second: rubeAcc_11
+  - first:
+      213: 1383667595076552453
+    second: rubeAcc_12
+  - first:
+      213: -7260947183553619499
+    second: rubeAcc_13
+  - first:
+      213: 1256103350396022970
+    second: rubeAcc_14
+  - first:
+      213: 6318105970800189253
+    second: rubeAcc_15
+  - first:
+      213: 1756601971191526252
+    second: rubeAcc_16
+  - first:
+      213: -6656468249579342762
+    second: rubeAcc_17
+  - first:
+      213: 2762445372916746449
+    second: rubeAcc_18
+  - first:
+      213: 955187759422937167
+    second: rubeAcc_19
+  - first:
+      213: -8833226917481922812
+    second: rubeAcc_20
+  - first:
+      213: -1101446907886271332
+    second: rubeAcc_21
+  - first:
+      213: -108346540205426546
+    second: rubeAcc_22
+  - first:
+      213: -6017067449748317178
+    second: rubeAcc_23
+  - first:
+      213: -930338075953527757
+    second: rubeAcc_24
+  - first:
+      213: 8682754499958746304
+    second: rubeAcc_25
+  - first:
+      213: 7295863537059061317
+    second: rubeAcc_26
+  - first:
+      213: -5461961069164610770
+    second: rubeAcc_27
+  - first:
+      213: -4112859814789370240
+    second: rubeAcc_28
+  - first:
+      213: 4839752675956562107
+    second: rubeAcc_29
+  - first:
+      213: 8736246594485910620
+    second: rubeAcc_30
+  - first:
+      213: 3132565439420026572
+    second: rubeAcc_31
+  - first:
+      213: 4234500568748306478
+    second: rubeAcc_32
+  - first:
+      213: -2631621033038638600
+    second: rubeAcc_33
+  - first:
+      213: -7561267697292740547
+    second: rubeAcc_34
+  - first:
+      213: 6710555764373260424
+    second: rubeAcc_35
+  - first:
+      213: -8875352584473061767
+    second: rubeAcc_36
+  - first:
+      213: 3265867591888002966
+    second: rubeAcc_37
+  - first:
+      213: -6202246364069891162
+    second: rubeAcc_38
+  - first:
+      213: -552367502313824014
+    second: rubeAcc_39
+  - first:
+      213: -2010613164986371945
+    second: rubeAcc_40
+  - first:
+      213: -7675487879320010544
+    second: rubeAcc_41
+  - first:
+      213: -631419326014062657
+    second: rubeAcc_42
+  - first:
+      213: -940004796514110585
+    second: rubeAcc_43
+  - first:
+      213: 3702834227858396852
+    second: rubeAcc_44
+  - first:
+      213: 6071515284006028471
+    second: rubeAcc_45
+  - first:
+      213: -2077091167862427733
+    second: rubeAcc_46
+  - first:
+      213: -8210417171420424551
+    second: rubeAcc_47
+  - first:
+      213: 7981127238544003834
+    second: rubeAcc_48
+  - first:
+      213: 6014775698249658783
+    second: rubeAcc_49
+  - first:
+      213: 4993832062512567706
+    second: rubeAcc_50
+  - first:
+      213: 6822356737587271686
+    second: rubeAcc_51
+  - first:
+      213: 8980999047186264908
+    second: rubeAcc_52
+  - first:
+      213: -3765800253810266072
+    second: rubeAcc_53
+  - first:
+      213: 5821307556114977345
+    second: rubeAcc_54
+  - first:
+      213: -3114761856174990272
+    second: rubeAcc_55
+  - first:
+      213: 3030863920338270581
+    second: rubeAcc_56
+  - first:
+      213: 3250003310569960869
+    second: rubeAcc_57
+  - first:
+      213: 3377480352881882041
+    second: rubeAcc_58
+  - first:
+      213: 3283841251121165754
+    second: rubeAcc_59
+  - first:
+      213: -5395687651394139189
+    second: rubeAcc_60
+  - first:
+      213: -4675814660971856650
+    second: rubeAcc_61
+  - first:
+      213: -8074844792096554344
+    second: rubeAcc_62
+  - first:
+      213: 1658457206106463710
+    second: rubeAcc_63
+  - first:
+      213: 1995639869051946146
+    second: rubeAcc_64
+  - first:
+      213: -4879605024623295689
+    second: rubeAcc_65
+  - first:
+      213: 2517504963010472301
+    second: rubeAcc_66
+  - first:
+      213: 3250640544788553932
+    second: rubeAcc_67
+  - first:
+      213: 5717482819634316758
+    second: rubeAcc_68
+  - first:
+      213: -1590571035040632781
+    second: rubeAcc_69
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rubeAcc_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1078
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4d0eca814dd2cb0800000000000000
+      internalID: -4887016818182400823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1078
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e281518631f9070800000000000000
+      internalID: 8115226391296355850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1078
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f435f943d86b990800000000000000
+      internalID: -7370548482994385078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_3
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1078
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42818626354b1d60800000000000000
+      internalID: 7861953673381904972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_4
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1078
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5402b28820bb8340800000000000000
+      internalID: 4867177510341837917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_5
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1078
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a99e7248faaf8a40800000000000000
+      internalID: 5372700863720495525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_6
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1078
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea000088b8fd84a0800000000000000
+      internalID: -6589337208468010258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_7
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1078
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372cdc7d547be5ea0800000000000000
+      internalID: -5882062552698076557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_8
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1078
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebe169a4f8f659d0800000000000000
+      internalID: -2785765589784597526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 924
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732644f48a0f7bb50800000000000000
+      internalID: 6609015583864545847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_10
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 924
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1efdae6346bb1c0800000000000000
+      internalID: -4486882416713014842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_11
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 924
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03100a99986ff86f0800000000000000
+      internalID: -680053947861302992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_12
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 924
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507c1c3c856c33310800000000000000
+      internalID: 1383667595076552453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_13
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 924
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9d967b10feb3b90800000000000000
+      internalID: -7260947183553619499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_14
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 924
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0788197539e6110800000000000000
+      internalID: 1256103350396022970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_15
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 924
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fd1dad7eb6ea750800000000000000
+      internalID: 6318105970800189253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_16
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 924
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c633f989f24b06810800000000000000
+      internalID: 1756601971191526252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_17
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 924
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654382df4697f93a0800000000000000
+      internalID: -6656468249579342762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 770
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8cf1c3e6d265620800000000000000
+      internalID: 2762445372916746449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_19
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 770
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f489436d432814d00800000000000000
+      internalID: 955187759422937167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_20
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 770
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f32134be21a6580800000000000000
+      internalID: -8833226917481922812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_21
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 770
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c948c7c7fdfd6b0f0800000000000000
+      internalID: -1101446907886271332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_22
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 770
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88b96e45631f7ef0800000000000000
+      internalID: -108346540205426546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_23
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 770
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c9f24c8051f7ca0800000000000000
+      internalID: -6017067449748317178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_24
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 770
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33405c5f276c613f0800000000000000
+      internalID: -930338075953527757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_25
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 770
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc27f9e6375f7870800000000000000
+      internalID: 8682754499958746304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_26
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 770
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e51285b3d104560800000000000000
+      internalID: 7295863537059061317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 616
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b3e67a8573334b0800000000000000
+      internalID: -5461961069164610770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_28
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 616
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e20801acf2ce6c0800000000000000
+      internalID: -4112859814789370240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_29
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 616
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8132baa614a2340800000000000000
+      internalID: 4839752675956562107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_30
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 616
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c7c86bdf16d3970800000000000000
+      internalID: 8736246594485910620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_31
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 616
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccecb4c8bab197b20800000000000000
+      internalID: 3132565439420026572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_32
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 616
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20be69f4d7f3ca30800000000000000
+      internalID: 4234500568748306478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_33
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 616
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f119460d9a9a7bd0800000000000000
+      internalID: -2631621033038638600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_34
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 616
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38fa33371bf01790800000000000000
+      internalID: -7561267697292740547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_35
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 616
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8880be4e9eea02d50800000000000000
+      internalID: 6710555764373260424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 462
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976532a19d964d480800000000000000
+      internalID: -8875352584473061767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_37
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 462
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fd1f18541b25d20800000000000000
+      internalID: 3265867591888002966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_38
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 462
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3f724fac13de9a0800000000000000
+      internalID: -6202246364069891162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_39
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 462
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f06d17eea89558f0800000000000000
+      internalID: -552367502313824014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_40
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 462
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7907348aafdd814e0800000000000000
+      internalID: -2010613164986371945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_41
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 462
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d08053b0703b7590800000000000000
+      internalID: -7675487879320010544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_42
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 462
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf7d98e77fbc37f0800000000000000
+      internalID: -631419326014062657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_43
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 462
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783fc903e9e64f2f0800000000000000
+      internalID: -940004796514110585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_44
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 462
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b658ad9c1c136330800000000000000
+      internalID: 3702834227858396852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 308
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4c8878bfa524450800000000000000
+      internalID: 6071515284006028471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_46
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 308
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf65757690bc23e0800000000000000
+      internalID: -2077091167862427733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_47
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 308
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996d7bf451dbe0e80800000000000000
+      internalID: -8210417171420424551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_48
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 308
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af21c9800f8a2ce60800000000000000
+      internalID: 7981127238544003834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_49
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 308
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91b2d141a6c87350800000000000000
+      internalID: 6014775698249658783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_50
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 308
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95940a6dc7ad4540800000000000000
+      internalID: 4993832062512567706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_51
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 308
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608d1e27e41edae50800000000000000
+      internalID: 6822356737587271686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_52
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 308
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43b8afcc0be2ac70800000000000000
+      internalID: 8980999047186264908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_53
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 308
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82030980f903dbbc0800000000000000
+      internalID: -3765800253810266072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 154
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142d782316079c050800000000000000
+      internalID: 5821307556114977345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_55
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 154
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04cd0c2389426c4d0800000000000000
+      internalID: -3114761856174990272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_56
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 154
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5797f466daacf0a20800000000000000
+      internalID: 3030863920338270581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_57
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 154
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5bd5daac45a1d20800000000000000
+      internalID: 3250003310569960869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_58
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 154
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3b26d7c783fde20800000000000000
+      internalID: 3377480352881882041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_59
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 154
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5f9d7283c829d20800000000000000
+      internalID: 3283841251121165754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_60
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 154
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbc0bb2baaae15b0800000000000000
+      internalID: -5395687651394139189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_61
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 154
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc7531e65b2c1fb0800000000000000
+      internalID: -4675814660971856650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_62
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 154
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8920ca6a17360ff80800000000000000
+      internalID: -8074844792096554344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd9925ca06040710800000000000000
+      internalID: 1658457206106463710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_64
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4c27633efe1bb10800000000000000
+      internalID: 1995639869051946146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_65
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7330e175519284cb0800000000000000
+      internalID: -4879605024623295689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_66
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 0
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69a580fc69ffe220800000000000000
+      internalID: 2517504963010472301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_67
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0aa945a589c1d20800000000000000
+      internalID: 3250640544788553932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_68
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5c3b9f454985f40800000000000000
+      internalID: 5717482819634316758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubeAcc_69
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 0
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330b06222182de9e0800000000000000
+      internalID: -1590571035040632781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
