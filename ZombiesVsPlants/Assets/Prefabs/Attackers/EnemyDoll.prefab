@@ -25,7 +25,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 472450037}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.1, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1917135807810408812}
@@ -97,6 +97,7 @@ GameObject:
   - component: {fileID: 366318036}
   - component: {fileID: 8548443756827102582}
   - component: {fileID: 524679520}
+  - component: {fileID: 613236158}
   m_Layer: 0
   m_Name: EnemyDoll
   m_TagString: Untagged
@@ -160,10 +161,10 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.17066145, y: -0.12628931}
+  m_Offset: {x: -0.10720432, y: 0.008556724}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -174,7 +175,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.80310726, y: 0.802446}
+  m_Size: {x: 0.70792174, y: 0.8817673}
   m_EdgeRadius: 0
 --- !u!50 &366318036
 Rigidbody2D:
@@ -262,3 +263,15 @@ SpriteRenderer:
   m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &613236158
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1917135807810408814}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2d9e8dcea4e9f6b49c95f6bef919b6f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

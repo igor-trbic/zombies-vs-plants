@@ -1,0 +1,708 @@
+fileFormatVersion: 2
+guid: 3fd10c7e05800abe286ec3ee49e829a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6654287165890885093
+    second: DollAttack_0
+  - first:
+      213: -1870311560703080073
+    second: DollAttack_1
+  - first:
+      213: -2230649693489187200
+    second: DollAttack_2
+  - first:
+      213: -5060447406389576557
+    second: DollAttack_3
+  - first:
+      213: -7777150699527716563
+    second: DollAttack_4
+  - first:
+      213: 1644333433950762619
+    second: DollAttack_5
+  - first:
+      213: -5834536441778619262
+    second: DollAttack_6
+  - first:
+      213: -4037438159518116992
+    second: DollAttack_7
+  - first:
+      213: -6338866850297804059
+    second: DollAttack_8
+  - first:
+      213: 6624540307907578963
+    second: DollAttack_9
+  - first:
+      213: -5467117746157879877
+    second: DollAttack_10
+  - first:
+      213: -6521280035691277359
+    second: DollAttack_11
+  - first:
+      213: -7233345096938311778
+    second: DollAttack_12
+  - first:
+      213: -9105992441137211910
+    second: DollAttack_13
+  - first:
+      213: 2712296601194105742
+    second: DollAttack_14
+  - first:
+      213: 1111634981718981156
+    second: DollAttack_15
+  - first:
+      213: 4135374138930217089
+    second: DollAttack_16
+  - first:
+      213: 4979350028193939587
+    second: DollAttack_17
+  - first:
+      213: 715177768957089924
+    second: DollAttack_18
+  - first:
+      213: -5256959738640548920
+    second: DollAttack_19
+  - first:
+      213: 9167374715557762867
+    second: DollAttack_20
+  - first:
+      213: 969391217173495693
+    second: DollAttack_21
+  - first:
+      213: 6655469503004398861
+    second: DollAttack_22
+  - first:
+      213: -7147355090850907687
+    second: DollAttack_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DollAttack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 282
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5fd54ebe6c85c50800000000000000
+      internalID: 6654287165890885093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollAttack_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 282
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7798cfc7b815b06e0800000000000000
+      internalID: -1870311560703080073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollAttack_2
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 282
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0863e391ce32b01e0800000000000000
+      internalID: -2230649693489187200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollAttack_3
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 282
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c3a9135eda5c9b0800000000000000
+      internalID: -5060447406389576557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollAttack_4
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 282
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2148f5d4a2021490800000000000000
+      internalID: -7777150699527716563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollAttack_5
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 282
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76feeecb88d1d610800000000000000
+      internalID: 1644333433950762619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollAttack_6
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 282
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28cb6b6d400970fa0800000000000000
+      internalID: -5834536441778619262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollAttack_7
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 282
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083d05b926328f7c0800000000000000
+      internalID: -4037438159518116992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollAttack_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 141
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea00853f22d708a0800000000000000
+      internalID: -6338866850297804059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollAttack_9
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 141
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c861dcf481feb50800000000000000
+      internalID: 6624540307907578963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollAttack_10
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 141
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd760b3065e024b0800000000000000
+      internalID: -5467117746157879877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollAttack_11
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 141
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d356c7db52cf75a0800000000000000
+      internalID: -6521280035691277359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollAttack_12
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 141
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fad2f45fefd9b90800000000000000
+      internalID: -7233345096938311778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollAttack_13
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 141
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5df92de1401a180800000000000000
+      internalID: -9105992441137211910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollAttack_14
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 141
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b8caf636304a520800000000000000
+      internalID: 2712296601194105742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollAttack_15
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 141
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42af14d40225d6f00800000000000000
+      internalID: 1111634981718981156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollAttack_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180c5448edcc36930800000000000000
+      internalID: 4135374138930217089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollAttack_17
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 0
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380c4da08743a1540800000000000000
+      internalID: 4979350028193939587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollAttack_18
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 0
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48891f54462dce900800000000000000
+      internalID: 715177768957089924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollAttack_19
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 0
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbbcc368f68b07b0800000000000000
+      internalID: -5256959738640548920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollAttack_20
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 0
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337d7b3abbe093f70800000000000000
+      internalID: 9167374715557762867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollAttack_21
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 0
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f720c0d28f37d00800000000000000
+      internalID: 969391217173495693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollAttack_22
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 0
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05d504304afc5c50800000000000000
+      internalID: 6655469503004398861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollAttack_23
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 0
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d97046c96e7fcc90800000000000000
+      internalID: -7147355090850907687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
