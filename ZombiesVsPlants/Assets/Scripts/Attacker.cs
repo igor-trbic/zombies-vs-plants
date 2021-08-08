@@ -9,6 +9,7 @@ public class Attacker : MonoBehaviour
     float currSpeed = 0.6f;
     GameObject currTarget;
     Animator animator;
+    [SerializeField] int damageToDeal = 1;
 
     void Start()
     {
@@ -44,5 +45,9 @@ public class Attacker : MonoBehaviour
         if (!currTarget) {
             animator.SetBool("isAttacking", false);
         }
+    }
+
+    public int GetDamageToPlayer() {
+        return damageToDeal;
     }
 }
