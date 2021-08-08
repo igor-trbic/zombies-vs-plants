@@ -34,4 +34,8 @@ public class AttackarSpawner : MonoBehaviour
         // parent is this transform so it's placed as child
         attacker.transform.parent = transform;
     }
+
+    public void StopSpawning() {
+        spawn = false;
+    }
 }

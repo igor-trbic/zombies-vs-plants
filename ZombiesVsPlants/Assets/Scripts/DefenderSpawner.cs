@@ -34,12 +34,14 @@ public class DefenderSpawner : MonoBehaviour
     }
 
     private void AttemptToPlaceDefender(Vector2 pos) {
-        var BreadDisplay = FindObjectOfType<BreadDisplay>();
-        int defenderCost = defender.GetBreadCost();
+        if (defender) {
+            var BreadDisplay = FindObjectOfType<BreadDisplay>();
+            int defenderCost = defender.GetBreadCost();
 
-        if (BreadDisplay.HaveEnoughBread(defenderCost)) {
-            SpawnDefender(pos);
-            BreadDisplay.SpendBread(defenderCost);
+            if (BreadDisplay.HaveEnoughBread(defenderCost)) {
+                SpawnDefender(pos);
+                BreadDisplay.SpendBread(defenderCost);
+            }
         }
     }
 

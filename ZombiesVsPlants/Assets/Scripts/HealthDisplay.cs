@@ -4,11 +4,14 @@ using UnityEngine.UI;
 public class HealthDisplay : MonoBehaviour
 {
 
-    [SerializeField] int playerHealth = 5;
+    [SerializeField] float baseHealth = 6f;
+
+    float playerHealth;
     Text playerHealthText;
 
     void Start()
     {
+        playerHealth = baseHealth / PlayerPrefsController.GetDifficulty();
         playerHealthText = GetComponent<Text>();
         UpdateHealth();
     }
@@ -22,7 +25,7 @@ public class HealthDisplay : MonoBehaviour
             playerHealth -= healthAmount;
             UpdateHealth();
             if (playerHealth <= 0) {
-                FindObjectOfType<LevelLoader>().LoadYouLose();
+                FindObjectOfType<LevelController>().HandleLoseCondition();
             }
         }
     }

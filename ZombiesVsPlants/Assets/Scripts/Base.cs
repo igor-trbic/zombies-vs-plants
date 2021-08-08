@@ -7,6 +7,7 @@ public class Base : MonoBehaviour
         if (otherObject.GetComponent<Attacker>() != null) {
             Attacker attacker = otherObject.GetComponent<Attacker>();
             FindObjectOfType<HealthDisplay>().InflictDamage(attacker.GetDamageToPlayer());
+            Destroy(otherCollider.gameObject);
         }
     }
 }

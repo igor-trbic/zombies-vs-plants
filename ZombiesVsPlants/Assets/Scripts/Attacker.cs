@@ -11,6 +11,17 @@ public class Attacker : MonoBehaviour
     Animator animator;
     [SerializeField] int damageToDeal = 1;
 
+    private void Awake() {
+        FindObjectOfType<LevelController>().AttackerSpawn();
+    }
+
+    private void OnDestroy() {
+        LevelController levelController = FindObjectOfType<LevelController>();
+        if (levelController != null) {
+            levelController.AttackerKilled();
+        }
+    }
+
     void Start()
     {
         animator = GetComponent<Animator>();
