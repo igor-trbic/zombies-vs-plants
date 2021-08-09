@@ -111,7 +111,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 043dac3b98627dca49e6f1a57afe3155, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  breadCost: 200
+  breadCost: 70
 --- !u!61 &-978488658245563621
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -150,7 +150,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 78d688074d3259327bfcb07e8d310ae0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 100
+  health: 150
   deathVFX: {fileID: 1906222994913036, guid: 740c2b3187d56c341b8cb78e8aa925c5, type: 3}
 --- !u!1 &6096238065260295927
 GameObject:

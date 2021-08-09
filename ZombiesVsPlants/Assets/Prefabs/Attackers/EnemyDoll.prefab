@@ -151,6 +151,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 481446c9c7a040e2793735747e5ae09a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  damageToDeal: 1
 --- !u!61 &242306833
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -210,7 +211,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 78d688074d3259327bfcb07e8d310ae0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 200
+  health: 170
   deathVFX: {fileID: 1906222994913036, guid: 740c2b3187d56c341b8cb78e8aa925c5, type: 3}
 --- !u!212 &524679520
 SpriteRenderer:

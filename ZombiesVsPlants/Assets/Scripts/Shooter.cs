@@ -4,23 +4,35 @@ using UnityEngine;
 
 public class Shooter : MonoBehaviour
 {
+    const string PROJECTILE_PARENT_NAME = "Projectiles";
+
     [SerializeField] GameObject projectile;
     [SerializeField] GameObject gun;
 
+    GameObject projectileParent;
     AttackarSpawner myLaneSpawner;
     Animator animator;
 
     public void Fire() {
-        Instantiate(
+        GameObject newProjectile = Instantiate(
             projectile,
             gun.transform.position,
             transform.rotation
-        );
+        ) as GameObject;
+        newProjectile.transform.parent = projectileParent.transform;
     }
 
     public void Start() {
         SetLaneSpawner();
+        CreateProjectileParent();
         animator = GetComponent<Animator>();
+    }
+
+    private void CreateProjectileParent() {
+        projectileParent = GameObject.Find(PROJECTILE_PARENT_NAME);
+        if (!projectileParent) {
+            projectileParent = new GameObject(PROJECTILE_PARENT_NAME);
+        }
     }
 
     public void Update() {

@@ -1,16 +1,14 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-public class HealthDisplay : MonoBehaviour
-{
+public class HealthDisplay : MonoBehaviour {
 
     [SerializeField] float baseHealth = 6f;
 
     float playerHealth;
     Text playerHealthText;
 
-    void Start()
-    {
+    void Start() {
         playerHealth = baseHealth / PlayerPrefsController.GetDifficulty();
         playerHealthText = GetComponent<Text>();
         UpdateHealth();
@@ -28,5 +26,9 @@ public class HealthDisplay : MonoBehaviour
                 FindObjectOfType<LevelController>().HandleLoseCondition();
             }
         }
+    }
+
+    public bool IsAlive() {
+        return playerHealth > 0;
     }
 }

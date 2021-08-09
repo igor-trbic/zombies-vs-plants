@@ -1,6 +1,5 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class DefenderButton : MonoBehaviour
 {
@@ -14,5 +13,18 @@ public class DefenderButton : MonoBehaviour
         GetComponent<SpriteRenderer>().color = Color.white;
 
         FindObjectOfType<DefenderSpawner>().SetSelectedDefender(defenderPrefab);
+    }
+
+    private void Start() {
+        LabelButtonWithCost();
+    }
+
+    private void LabelButtonWithCost() {
+        Text costText = GetComponentInChildren<Text>();
+        if (!costText) {
+            Debug.LogError(name + " has no COST TEXT!");
+        } else {
+            costText.text = defenderPrefab.GetBreadCost().ToString();
+        }
     }
 }

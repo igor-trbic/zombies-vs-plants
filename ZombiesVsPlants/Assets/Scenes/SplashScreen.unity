@@ -728,6 +728,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 8109602022728833960, guid: f361cf48fcff61fbcb120430cfbb92ed, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8109602022728833961, guid: f361cf48fcff61fbcb120430cfbb92ed, type: 3}
       propertyPath: m_Name
       value: LoadSound

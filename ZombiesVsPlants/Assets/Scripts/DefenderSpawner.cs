@@ -4,7 +4,20 @@ using UnityEngine;
 
 public class DefenderSpawner : MonoBehaviour
 {
+    const string DEFENDER_PARENT_NAME = "Defenders";
     Defender defender;
+    GameObject defenderParent;
+
+    private void Start() {
+        CreateDefenderParent();
+    }
+
+    private void CreateDefenderParent() {
+        defenderParent = GameObject.Find(DEFENDER_PARENT_NAME);
+        if (!defenderParent) {
+            defenderParent = new GameObject(DEFENDER_PARENT_NAME);
+        }
+    }
 
     private void OnMouseDown() {
         AttemptToPlaceDefender(GetSquareClicked());
@@ -31,6 +44,7 @@ public class DefenderSpawner : MonoBehaviour
             spawnPos,
             Quaternion.identity
         ) as Defender;
+        newDefender.transform.parent = defenderParent.transform;
     }
 
     private void AttemptToPlaceDefender(Vector2 pos) {

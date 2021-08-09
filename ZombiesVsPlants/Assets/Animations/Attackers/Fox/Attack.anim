@@ -131,6 +131,6 @@ AnimationClip:
     functionName: StrikeCurrTarget
     data: 
     objectReferenceParameter: {fileID: 0}
-    floatParameter: 40
+    floatParameter: 30
     intParameter: 0
     messageOptions: 0

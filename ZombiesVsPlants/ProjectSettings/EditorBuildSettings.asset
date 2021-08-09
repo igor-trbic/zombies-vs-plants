@@ -5,9 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/LoseScreen.unity
+    guid: 4fa62942b5178205ca70e04c6c9cbb46
+  - enabled: 1
+    path: Assets/Scenes/OptionsScreen.unity
+    guid: fc457286580566f299f06c25e91c1f75
   - enabled: 1
     path: Assets/Scenes/SplashScreen.unity
     guid: 46f9dc68e70f4878895e8379cad21c77
@@ -19,11 +22,17 @@ EditorBuildSettings:
     guid: a6b17212d2c7f3e1fa3deeebcdfc1649
   - enabled: 1
     path: Assets/Scenes/Level 2.unity
-    guid: 6fde55a1be53e4b249ff929896bcbb5c
+    guid: 38734a8e8eaf9fa7293125c04e0ffb75
   - enabled: 1
-    path: Assets/Scenes/OptionsScreen.unity
-    guid: fc457286580566f299f06c25e91c1f75
+    path: Assets/Scenes/Level 3.unity
+    guid: a1b52f640b04a654f9fb4974a7f84175
   - enabled: 1
-    path: Assets/Scenes/LoseScreen.unity
-    guid: 4fa62942b5178205ca70e04c6c9cbb46
+    path: Assets/Scenes/Level 4.unity
+    guid: 96054d29ad687c4daa2af034068a1f68
+  - enabled: 1
+    path: Assets/Scenes/Level 5.unity
+    guid: bd42ac2e3a2f74640b15fc1c928cdd01
+  - enabled: 1
+    path: Assets/Scenes/WinScreen.unity
+    guid: 9f839e476c1fcc9ad85c1ef404a80d5c
   m_configObjects: {}

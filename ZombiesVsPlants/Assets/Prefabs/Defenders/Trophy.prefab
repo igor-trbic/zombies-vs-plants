@@ -150,7 +150,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 043dac3b98627dca49e6f1a57afe3155, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  breadCost: 100
+  breadCost: 200
 --- !u!61 &187435859
 BoxCollider2D:
   m_ObjectHideFlags: 0

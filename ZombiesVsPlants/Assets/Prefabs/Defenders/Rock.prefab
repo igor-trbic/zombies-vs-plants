@@ -48,7 +48,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 043dac3b98627dca49e6f1a57afe3155, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  breadCost: 150
+  breadCost: 100
 --- !u!61 &8712084099862371873
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -62,7 +62,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.022310495, y: 0.011425972}
+  m_Offset: {x: -0.003815651, y: -0.036472112}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -73,7 +73,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.6941447, y: 0.8171835}
+  m_Size: {x: 0.9205723, y: 0.91297966}
   m_EdgeRadius: 0
 --- !u!95 &8712084099862371876
 Animator:
@@ -106,7 +106,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 78d688074d3259327bfcb07e8d310ae0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 200
+  health: 300
   deathVFX: {fileID: 1906222994913036, guid: 740c2b3187d56c341b8cb78e8aa925c5, type: 3}
 --- !u!114 &822613701386877946
 MonoBehaviour:

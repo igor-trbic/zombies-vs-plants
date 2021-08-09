@@ -11,10 +11,12 @@ public class LevelController : MonoBehaviour
 
     int numOfAttackers = 0;
     bool levelTimerFinished = false;
+    HealthDisplay healthDisplay;
 
     void Start() {
         winLabel.SetActive(false);
         loseLabel.SetActive(false);
+        healthDisplay = FindObjectOfType<HealthDisplay>();
     }
 
     public void AttackerSpawn() {
@@ -23,7 +25,7 @@ public class LevelController : MonoBehaviour
 
     public void AttackerKilled() {
         numOfAttackers--;
-        if (numOfAttackers <= 0 && levelTimerFinished)
+        if (numOfAttackers <= 0 && levelTimerFinished && healthDisplay.IsAlive())
         {
             StartCoroutine(HandleWinCondition());
         }
@@ -33,7 +35,7 @@ public class LevelController : MonoBehaviour
         winLabel.SetActive(true);
         GetComponent<AudioSource>().Play();
         yield return new WaitForSeconds(waitToLoad);
-        FindObjectOfType<LevelLoader>().LoadNextScene();
+        // FindObjectOfType<LevelLoader>().LoadNextScene();
     }
 
     public void LevelTimerFinished() {
